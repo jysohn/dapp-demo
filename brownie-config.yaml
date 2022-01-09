@@ -19,3 +19,4 @@ networks:
     verify: False
 wallets:
   from_key: ${PRIVATE_KEY}
+dotenv: .env
